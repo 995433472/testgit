@@ -7,9 +7,3 @@
 99999999
 Creating a new branch is quick.
 111
-<<<<<<< Updated upstream
-
-333
-=======
-222
->>>>>>> Stashed changes
